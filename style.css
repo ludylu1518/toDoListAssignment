@@ -1,3 +1,17 @@
 .crossed-off {
     text-decoration: line-through;
 }
+
+.head-text {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.list-item {
+    text-align: center;
+}
+
+.list-item > ul{
+    display: inline-block;
+    text-align: left;
+}
